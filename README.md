@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ## About Me
-I'm Kiselev Ivan, a software tester with 2 years of experience in quality assurance and testing.
+I'm Kiselev Ivan, a software tester with 3 years of experience in quality assurance and testing.
 
 ## Interests
 - I'm passionate about ensuring the quality and reliability of software products.
